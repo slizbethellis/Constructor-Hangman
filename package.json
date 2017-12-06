@@ -1,0 +1,23 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "a CLI version of hangman",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slizbethellis/Constructor-Hangman.git"
+  },
+  "author": "Sarah Ellis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slizbethellis/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/slizbethellis/Constructor-Hangman#readme",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "inquirer": "^4.0.1"
+  }
+}
